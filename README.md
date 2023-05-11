@@ -13,4 +13,6 @@ R
 *DATA BELOW*
 
 ![image](https://github.com/Angel00Michel/MechaCar_Statistical_Analysis/assets/106771574/926df865-c956-436a-b2f8-315ebbec4d84)
+
+
 ![image](https://github.com/Angel00Michel/MechaCar_Statistical_Analysis/assets/106771574/99e2f196-32ad-4456-aeef-89f59f5ac044)
